@@ -70,9 +70,9 @@
                       </option>
                       <option name="index" value="1" />
                       <option name="name" value="Theory" />
-                      <option name="status" value="Solved" />
+                      <option name="status" value="Unchecked" />
                       <option name="stepId" value="294196" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Task.java">
@@ -81,7 +81,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.java" />
                                 <option name="text" value="// you can experiment here, it won’t be checked&#10;&#10;class Task {&#10;  public static void main(String[] args) {&#10;    // put your code here&#10;  }&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1746,9 +1746,9 @@
                       </option>
                       <option name="index" value="3" />
                       <option name="name" value="Programming (1)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294254" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -1757,7 +1757,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -1789,9 +1789,9 @@
                       </option>
                       <option name="index" value="4" />
                       <option name="name" value="Programming (2)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294251" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -1800,7 +1800,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -1832,9 +1832,9 @@
                       </option>
                       <option name="index" value="5" />
                       <option name="name" value="Programming (3)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294250" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -1843,7 +1843,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -1875,9 +1875,9 @@
                       </option>
                       <option name="index" value="6" />
                       <option name="name" value="Programming (4)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294249" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -1886,7 +1886,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -1918,9 +1918,9 @@
                       </option>
                       <option name="index" value="7" />
                       <option name="name" value="Programming (5)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294252" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -1929,7 +1929,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -1961,9 +1961,9 @@
                       </option>
                       <option name="index" value="8" />
                       <option name="name" value="Programming (6)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294248" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -1972,7 +1972,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -2004,9 +2004,9 @@
                       </option>
                       <option name="index" value="9" />
                       <option name="name" value="Programming (7)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294255" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -2015,7 +2015,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -2047,9 +2047,9 @@
                       </option>
                       <option name="index" value="10" />
                       <option name="name" value="Programming (8)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294257" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -2058,7 +2058,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -2090,9 +2090,9 @@
                       </option>
                       <option name="index" value="11" />
                       <option name="name" value="Programming (9)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294260" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -2101,7 +2101,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
